@@ -2,7 +2,7 @@
 - 👀 I’m interested in ..
 - 🌱 I’m currently learning ... Python,C#,Node JS,Javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Instagram @halilofficaall
+- 📫 How to reach me ... halilakinn@icloud.com
 
 <!---
 halilakinnn/halilakinnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
