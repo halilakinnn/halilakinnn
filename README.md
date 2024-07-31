@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @halilakinnn
 - 👀 I’m interested in ..
-- 🌱 I’m currently learning ... Python,Sql
+- 🌱 I’m currently learning ... Python,C#,Node JS,Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Instagram @halilofficaall
 
