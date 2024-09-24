@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @halilakinnn
 - 👀 I’m interested in ..
-- 🌱 I’m currently learning ... Python,C#,Node JS,Javascript
+- 🌱 I’m currently learning ... HTML,CSS,BOOTSTRAP,JAVASCRİPT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... halilakinn@icloud.com
 
